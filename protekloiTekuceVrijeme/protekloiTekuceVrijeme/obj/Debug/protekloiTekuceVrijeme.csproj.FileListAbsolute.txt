@@ -1,0 +1,10 @@
+C:\Users\toni-PC\source\repos\protekloiTekuceVrijeme\protekloiTekuceVrijeme\bin\Debug\protekloiTekuceVrijeme.exe.config
+C:\Users\toni-PC\source\repos\protekloiTekuceVrijeme\protekloiTekuceVrijeme\bin\Debug\protekloiTekuceVrijeme.exe
+C:\Users\toni-PC\source\repos\protekloiTekuceVrijeme\protekloiTekuceVrijeme\bin\Debug\protekloiTekuceVrijeme.pdb
+C:\Users\toni-PC\source\repos\protekloiTekuceVrijeme\protekloiTekuceVrijeme\obj\Debug\protekloiTekuceVrijeme.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\protekloiTekuceVrijeme\protekloiTekuceVrijeme\obj\Debug\protekloiTekuceVrijeme.Form1.resources
+C:\Users\toni-PC\source\repos\protekloiTekuceVrijeme\protekloiTekuceVrijeme\obj\Debug\protekloiTekuceVrijeme.Properties.Resources.resources
+C:\Users\toni-PC\source\repos\protekloiTekuceVrijeme\protekloiTekuceVrijeme\obj\Debug\protekloiTekuceVrijeme.csproj.GenerateResource.cache
+C:\Users\toni-PC\source\repos\protekloiTekuceVrijeme\protekloiTekuceVrijeme\obj\Debug\protekloiTekuceVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\protekloiTekuceVrijeme\protekloiTekuceVrijeme\obj\Debug\protekloiTekuceVrijeme.exe
+C:\Users\toni-PC\source\repos\protekloiTekuceVrijeme\protekloiTekuceVrijeme\obj\Debug\protekloiTekuceVrijeme.pdb
